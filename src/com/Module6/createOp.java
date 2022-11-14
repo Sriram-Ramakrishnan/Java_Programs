@@ -1,6 +1,6 @@
 package com.Module6;
 import java.io.*;
-public class part1 {
+public class createOp {
     public static void main(String[] args) throws IOException {
         // Streams are flows of Data, you can read and write stream
         /**
