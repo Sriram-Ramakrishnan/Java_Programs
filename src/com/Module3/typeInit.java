@@ -28,6 +28,5 @@ public class typeInit {
         typeInit A = new typeInit();
         typeInit B = new typeInit(25);
         System.out.println(B.a);
-
     }
 }
