@@ -1,1 +1,3 @@
 Hello, this is Java FileInputStream
+More Content
+Line 3
