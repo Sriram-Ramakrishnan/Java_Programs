@@ -3,7 +3,13 @@ package com.Module5;
 import java.io.File;
 import java.io.IOException;
 
+
 public class BuiltInExceptionsDemo {
+    public static void divideByZero()
+    {
+        throw new ArithmeticException("Trying to divide by 0");
+    }
+
     public static void main(String[] args) throws IOException {
         // throws keyword is used to tackle any potential exception
         // In this case, IOException when file is created.
